@@ -1,6 +1,6 @@
 ---
 title: "Protein Conditional Generative Framework Based on Flow Matching"
-excerpt: "Participated in building a generative framework integrating Geometric Graph Neural Networks (GVP-GNN) and Flow Matching.<br/><img src='/images/_portfolio/TmFlow.png'>"
+excerpt: "Participated in building a generative framework integrating Geometric Graph Neural Networks (GVP-GNN) and Flow Matching.<br/><img src='/images/TmFlow.png'>"
 collection: portfolio
 ---
 
@@ -8,10 +8,14 @@ collection: portfolio
 **Advisor:** Assoc. Prof. Yunxin Xu  
 **Duration:** Dec 2025 - Present  
 
-### Project Overview
-In this project, I focused on exploring and implementing advanced generative architectures for protein design, specifically aiming to achieve protein sequence generation under given physical constraints (e.g., target $T_{m}$, functional constraints). 
+<div style="text-align: center;">
+    <img src='/images/TmFlow.png' alt='TmFlow Architecture' width='80%'>
+</div>
 
-### Key Contributions
+### Project Overview
+In this project, I focused on exploring and implementing advanced generative architectures for protein design, specifically aiming to achieve protein sequence generation under given physical constraints (e.g., target T<sub>m</sub>, functional constraints). 
+
+### My Contributions
 * **Data Engineering pipeline:** Collected and processed million-scale protein sequence and structure data. Utilized tools such as **MMseqs2** and **Foldseek** for efficient sequence clustering and structural preprocessing.
 * **Algorithm Implementation:** Participated in building a generative framework integrating Geometric Graph Neural Networks (**GVP-GNN**) and **Flow Matching**.
 * **End-to-End Execution:** Successfully ran the complete computational pipeline from raw data preprocessing to model generation.
