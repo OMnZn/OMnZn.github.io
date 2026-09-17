@@ -1,6 +1,6 @@
 ---
 title: "MutCleaner: Cleaning and Standardizing Biological Mutation Datasets for Variant Effect Prediction"
-excerpt: "Co-developed an automated data cleaning tool to address data heterogeneity in multi-source public mutation datasets.<br/><img src='/images/MutCleaner_overview.png'>"
+excerpt: "Co-developed an automated data cleaning tool to address data heterogeneity in multi-source public mutation datasets.<br/><img src='/images/_portfolio/MutCleaner_overview.png'>"
 collection: portfolio
 ---
 

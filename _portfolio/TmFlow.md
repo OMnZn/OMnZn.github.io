@@ -1,6 +1,6 @@
 ---
 title: "Protein Conditional Generative Framework Based on Flow Matching"
-excerpt: "Participated in building a generative framework integrating Geometric Graph Neural Networks (GVP-GNN) and Flow Matching.<br/><img src='/images/_portolio/TmFlow.png'>"
+excerpt: "Participated in building a generative framework integrating Geometric Graph Neural Networks (GVP-GNN) and Flow Matching.<br/><img src='/images/_portfolio/TmFlow.png'>"
 collection: portfolio
 ---
 
