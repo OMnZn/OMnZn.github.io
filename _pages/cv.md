@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-**📄 [Click here to download my full PDF Curriculum Vitae](/files/YMX_CV.pdf)**
+**📄 [Click here to download my full PDF Curriculum Vitae]({{ base_path }}/files/YMX_CV.pdf)**
 
 <br/>
 
 <div style="text-align: center;">
-    <iframe src="/files/YMX_CV.pdf" width="100%" height="1000px" style="border: none;">
-        <p>Your browser does not support embedded PDFs. <a href="/files/YMX_CV.pdf">Click here to download the PDF</a>.</p>
-    </iframe>
+    <object data="{{ base_path }}/files/YMX_CV.pdf" type="application/pdf" width="100%" height="1000px">
+        <p>Your browser does not support embedded PDFs. <a href="{{ base_path }}/files/YMX_CV.pdf">Click here to download the PDF</a>.</p>
+    </object>
 </div>
 
 ---
@@ -26,5 +26,5 @@ redirect_from:
   * B.S. in Statistics (Expected Jun 2027)
 
 ## Core Skills
-* **Programming & Environments:** Python, PyTorch, C++, R, Linux Shell, Git, LaTeX
-* **Bioinformatics Tools:** MMseqs2, Foldseek, PyMOL, DIAMOND, Seqkit, ESMFold
+* **Programming & Environments:** Python, PyTorch, R, Linux Shell, Git, LaTeX
+* **Bioinformatics Tools:** MMseqs2, Foldseek, PyMOL, Seqkit, ESMFold
