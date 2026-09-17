@@ -21,12 +21,12 @@ repository               : "OMnZn/OMnZn.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "profile.png" # 记得稍后在 images 文件夹里替换一张同名的你自己的照片
+  avatar           : "profile.png" 
   name             : "Mengxin Yang"
   pronouns         : "he"
-  bio              : "Undergraduate Researcher in Computational Biology & AI for Science."
+  bio              : "Undergraduate Researcher in Computational Biology & AI for Science"
   location         : "Wuhan, China" 
-  employer         : "Zhongnan University of Economics and Law(ZUEL)"
+  employer         : "ZUEL"
   uri              : "https://OMnZn.github.io"
   email            : "15373826193@163.com" 
 
