@@ -9,9 +9,9 @@ redirect_from:
 
 Hi there! 👋 I am an undergraduate student majoring in Statistics at [Zhongnan University of Economics and Law (ZUEL)](https://www.zuel.edu.cn), expected to graduate in June 2027. 
 
-Currently, I serve as an Undergraduate Researcher in the lab of [Assoc. Prof. Yunxin Xu](https://your-professor-link-if-available.com). My research interests primarily lie at the intersection of **Computational Biology** and **AI for Science**, with a specific focus on protein thermal stability modeling, mutation effect prediction, and flow matching generative architectures.
+Currently, I serve as an Undergraduate Researcher in the lab of [Assoc. Prof. Yunxin Xu](https://github.com/xulab-research). My research interests primarily lie at the intersection of **Computational Biology** and **AI for Science**, with a specific focus on protein thermal stability modeling, mutation effect prediction, and flow matching generative architectures.
 
-I am highly passionate about building robust data engineering pipelines and open-source tools for the AI4Science community. I am proficient in GPU cluster workflow management and biological sequence analysis tools (e.g., PyTorch, PyMOL, MMseqs2, DIAMOND).
+I am highly passionate about building data engineering pipelines and open-source tools for the AI4Science community. I am proficient in GPU cluster workflow management and biological sequence analysis tools (e.g., PyTorch, PyMOL, MMseqs2, Foldseek).
 
 **🎯 I am currently looking for Direct Ph.D. programs (Fall 2027) and AI Algorithm Engineering internships.**
 
@@ -20,7 +20,6 @@ I am highly passionate about building robust data engineering pipelines and open
 ## 🛠️ Open Source Projects
 
 *   **[MutCleaner](https://github.com/xulab-research/MutCleaner)**: An open-source Python framework designed for automated cleaning, validation, and harmonization of heterogeneous protein mutation datasets. Distributed via PyPI.
-*   **[Fast-Split](https://github.com/OMnZn/Fast-Split)**: A dataset splitting tool leveraging MMseqs2 and DIAMOND, specifically optimized for preparing data pipelines in deep learning tasks.
 
 ---
 
